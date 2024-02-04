@@ -1,4 +1,7 @@
 # Mobile_testing
+
+## Base
+
 + [Архитектура мобильных приложений в 2023 году: создайте свое мобильное приложение](https://appmaster.io/ru/blog/arkhitektura-mobil-nykh-prilozhenii-v-2022-godu-sozdaite-svoe-mobil-noe-prilozhenie)
 + [qa_bible/mobilnoe-testirovanie](https://vladislaveremeev.gitbook.io/qa_bible/mobilnoe-testirovanie)
 + [Чек-лист проверок мобильного приложения](https://docs.google.com/spreadsheets/d/1RxpPGMgMt4sil3cxfWydCmC-rqgTWQbM7k_sgi4WT78/edit#gid=0)
@@ -12,14 +15,16 @@
 + [Тестирование мобильных приложений](https://gist.github.com/Rende11/1db5dc9470c9659976eae6d6e4e1a271)
 
 
-# Android studio, ADB, logcat
+## Android studio, ADB, logcat
+
 + [android.com/studio](https://developer.android.com/studio)
 + [Как пользоваться Android Studio](https://practicum.yandex.ru/blog/kak-polzovatsya-android-studio/)
 + [Android Debug Bridge (adb) – основные команды](https://telegra.ph/Android-Debug-Bridge-adb-10-10)
 + [КАК УСТАНОВИТЬ И НАСТРОИТЬ РАБОТУ ANDROID DEBUG BRIDGE (ADB) НА WINDOWS И MACOS](https://testmatick.com/ru/kak-ustanovit-i-nastroit-rabotu-android-debug-bridge-adb-na-windows-i-macos/)
 
 
-# Guidelines, UI elements
+## Guidelines, UI elements
+
 + [Designing for iOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios)
 + [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 + [Core app quality](https://developer.android.com/docs/quality-guidelines/core-app-quality)
@@ -33,7 +38,8 @@
 + [UI-элементы и жесты в мобильных приложениях](https://habr.com/ru/companies/youla/articles/540768/)
 + [О правильном дизайне полей с выпадающими списками](https://proglib.io/p/o-pravilnom-dizayne-poley-s-vypadayushchimi-spiskami-2020-05-07)
 
-# Appium
+## Appium
+
 + [Appium Documentation](https://appium.io/docs/en/2.1/)
 + [Почем Appium для народа](https://habr.com/ru/articles/488482/)
 + [Руководство APPIUM по тестированию мобильных приложений для Android и iOS](https://habr.com/ru/companies/otus/articles/682268/)
