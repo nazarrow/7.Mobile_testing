@@ -44,3 +44,7 @@
 + [Почем Appium для народа](https://habr.com/ru/articles/488482/)
 + [Руководство APPIUM по тестированию мобильных приложений для Android и iOS](https://habr.com/ru/companies/otus/articles/682268/)
 + [Appium — гайд](https://testengineer.ru/appium-gaid/)
+
+## Other
+
++ [Логирование: понятие, механизмы и уровни](https://habr.com/ru/articles/795445/)
